@@ -1,0 +1,31 @@
+CMPM Homework1D: Discuss a visual effect
+
+"Take a screenshot (or photo) of an interesting visual effect you noticed in a video game or
+computational artwork. In a few paragraphs, describe the effect. What do you like about it?
+How do you think it was created? Does the effect change depending on the camera view?
+The lights? Is it an effect that updates the geometry itself, or change the color of the pixels,
+or does it alter a texture?"
+
+The visual effect I've chosen is the card pack opening animation from Hearthstone.  As the most
+popular digital card game, hearthstone's developers at Blizzard knew that one of the best parts
+of a trading cards is the satisfaction that comes from opening up a pack of cards you paid $6.99
+for..  Without the physical sensation of opening up the plastic and pulling the cards out with
+your hands, the designers knew they had to do something visually to make the experience of gaining
+new cards as satisfying as in real life.
+
+https://imgur.com/npq7ZyJ
+
+https://imgur.com/bMMbbgh
+
+The second screen shot I took, the first I pulled from the internet since it shows off the effects
+better.  There's also an animation that happens when the pack opens up and the 5 cards pop out
+but it was too hard for me to capture that in the screen shot/find it online.
+
+I think the glowing effects that are a different color depending on rarity of the card are the key.
+The glowing effect harkens back to hologrpahic card backings in physical trading cards.  The way the
+cards move and float when you hover your mouse over them and flip over dramatically when you click them
+makes this effect so good for providing that satisfying experience of opening a card pack.
+
+I think they used lighting to make the glowing effect realistic and shine on all the cards.
+The explosion when the pack opens is a mystery to me.  It's a very advanced 3D effect and for the most
+part I'm unsure of exactly what techniques were utilized.
